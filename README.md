@@ -10,7 +10,7 @@ Additionally, two new microservices were implemented to handle specific API requ
 The project serves as a key improvement to the DEE's existing functionalities, simplifying the workflow of handling data related to drone operations.
 
 # Demo
-To better understand how to use the Data Base Manager, I have prepared a demo video showcasing its functionalities. In this video, we demonstrate the step-by-step process of managing flight plans and flights through the interface, highlighting key features like duplicating and editing flight data.
+To better understand how to use the Data Base Manager, I have prepared a demo video showcasing its functionalities. In this video, we demonstrate the step-by-step process of managing flight plans and flights through the interface, highlighting key features like duplicating and editing flight data. https://youtu.be/QG72PwBe8rk
 
 And also a video explaining the code: 
 
