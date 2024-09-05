@@ -1,0 +1,11 @@
+opencv-python==4.5.5.62
+numpy==1.21.6
+Pillow==9.2.0
+djitellopy==2.4.0
+paho-mqtt==1.6.1
+pre-commit==2.21.0
+dronekit==2.9.2
+pymavlink==2.4.40
+python-vlc==3.0.18122
+pyppeteer==1.0.2
+requests==2.31.0
